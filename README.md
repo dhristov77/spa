@@ -4,7 +4,7 @@ This project is a Single Page Application built with:
 
 - **Frontend:** React + Vite
 - **Backend:** Spring Boot
-- **Database:** H2 (in-memory, configured in application.properties)
+- **Database:** H2
 
 Creates items and lists them in a table.
 
